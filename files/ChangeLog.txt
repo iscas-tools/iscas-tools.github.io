@@ -1,0 +1,5 @@
+%changelog
+* Wed Mar 8 2011, Zhiwu XU <zhiwu@ios.ac.cn>, 0.1.0
+  * fix the problem about empty string
+  * append the declaration about copyright
+  * enhance the grammar check for sentence generation
